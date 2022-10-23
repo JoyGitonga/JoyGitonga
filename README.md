@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoyGitonga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m JoyGitonga
+I’m interested in web development
+I’m currently learning Java
+I’m looking to collaborate on building each other's
+my email,,, joygitonga79@gmail.com
 
 <!---
 JoyGitonga/JoyGitonga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
